@@ -6,7 +6,7 @@ README ini dokumentasi untuk menjalankan sebuah project atau applikasi.
 * Ruby versi 2.6.3
 * Mysql
 
-## Berikut langkah-langkah untuk men-setup dan menjalankan applikasi ini:
+## Berikut langkah-langkah untuk men-setup dan menjalankan aplikasi:
 * Clone aplikasi projeck ke lokal
 * Arahkan navigasi ke folder aplikasi projek
 * Setelah berada di dalam folder projek, jalankan perintah ```bundle install```
@@ -15,7 +15,7 @@ README ini dokumentasi untuk menjalankan sebuah project atau applikasi.
 * Setelah database dibuat, langkah selanjutnya membuat tabel-tabelnya. jalankan perintah ```rails db:migrate```. Ini akan membuat tabel-tabel yang tersedia di db/migrate
 * Untuk memastikan periksa kembali database yang telah dibuat
 * Jika semuanya berjalan lancar, jalankan aplikasi dengan mengetik perintah ```rails server```
-* Jika terjadi masalah email admin di sann.lix@gmail.com
+* Jika terjadi masalah email mimin di sann.lix@gmail.com
 * Terakhir silahkan dicoba-coba :)
 
 ## Desain ERD
